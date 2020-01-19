@@ -5,6 +5,6 @@ DevRadar
 # SCENES
 
 - [x] Back-end
-- [ ] Front-end
+- [x] Front-end
 - [ ] Mobile
 - [ ] News
