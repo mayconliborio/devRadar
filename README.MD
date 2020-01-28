@@ -6,5 +6,5 @@ DevRadar
 
 - [x] Back-end
 - [x] Front-end
-- [ ] Mobile
-- [ ] News
+- [x] Mobile
+- [x] News
